@@ -1,8 +1,7 @@
-<div id="header" align="center"><h1><b>RYAN REEVES</h1>
-  <h3>software development projects</h3></b>
-  <br>
+<div id="header" align="center"><h1>RYAN REEVES<br>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></h1>
   
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
+</div>
 
 - 👀 I’m interested in front-end development, back-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
