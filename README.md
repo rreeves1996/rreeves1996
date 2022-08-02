@@ -6,8 +6,8 @@
 - 👀 I’m interested in front-end development, back-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
 - 📫 Contact:
-<br>`  Email: ryan_reeves@live.com`
-<br>`  Phone: (425) 418-3963`
+<br>  Email: `ryan_reeves@live.com`
+<br>  Phone: `(425) 418-3963`
 
 
 
