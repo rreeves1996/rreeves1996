@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Ryan Reeves!
+<div id="header" align="center">👋 Hi, I’m Ryan Reeves!
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
+
 - 👀 I’m interested in front-end development, back-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
 - 📫 How to reach me ...
