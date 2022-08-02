@@ -1,4 +1,4 @@
-<div id="header" align="center"><h1>RYAN REEVES</h3><br>
+<div id="header" align="center"><h1>RYAN REEVES</h1><br>
   
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
 
