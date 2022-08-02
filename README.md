@@ -3,18 +3,22 @@
 
 </div>
 
-### About Me :
+---
+### 👨‍💻 About Me :
+<br> 
 
 - 👀 I’m interested in front-end development, back-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
+- ⚡ In my free time, I enjoy listening to music, excersizing and playing video games.
 - 📫 Contact:
 <br>  Email: `ryan_reeves@live.com`
 <br>  Phone: `(425) 418-3963`
+<br>
 
-
-
+---
 
 ### :fire: My Stats :
+<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rreeves1996&theme=dark&background=000000)](https://git.io/streak-stats)
 
