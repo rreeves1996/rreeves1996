@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in front-end development, back-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
-- ⚡ In my free time, I enjoy listening to music, excersizing and playing video games.
+- ⚡ In my free time, I enjoy playing piano/singing, exercising and playing video games.
 - 📫 Contact:
 <br>  Email: `ryan_reeves@live.com`
 <br>  Phone: `(425) 418-3963`
