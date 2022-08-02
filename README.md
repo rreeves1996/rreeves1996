@@ -1,5 +1,6 @@
-<div id="header" align="center"><h1><b>RYAN REEVES</b></h1><br>
+<div id="header" align="center"><h1><b>RYAN REEVES</b></h1>
   <h3>software engineer</h3>
+  <br>
   
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
 
