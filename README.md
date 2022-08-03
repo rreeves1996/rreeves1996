@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 
-<h3> :moyai:  I am a stone/brick mason looking for a career change!</h3></div>
+<h3> :moyai:  I am a stone/brick mason looking for a career change! :moyai: </h3></div>
 <br>
 
 - 👀 I’m interested in front-end development and UI/UX design.
