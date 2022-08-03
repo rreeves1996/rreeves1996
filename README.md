@@ -4,8 +4,12 @@
 </div>
 
 ---
+<div align="center">
+
 ### 👨‍💻 About Me :
-<br> 
+
+<h3> :moyai:  I am a stone/brick mason looking for a career change!</h3></div>
+<br>
 
 - 👀 I’m interested in front-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
