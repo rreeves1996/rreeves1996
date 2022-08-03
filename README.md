@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me :
 <br> 
 
-- 👀 I’m interested in front-end development, back-end development and UI/UX design.
+- 👀 I’m interested in front-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
 - ⚡ In my free time, I enjoy playing piano/singing, exercising and playing video games.
 - 📫 Contact:
