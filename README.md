@@ -8,14 +8,14 @@
 
 ### 👨‍💻 About Me :
 
-<h3> :moyai:  I am a stone/brick mason looking for a career change! :moyai: </h3></div>
+<h3> :moyai:  Looking to change careers out of masonry and into front-end development! :moyai: </h3></div>
 <br>
 
 - 👀 I’m interested in front-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
 - ⚡ In my free time, I enjoy teaching piano private lessons, exercising, playing video games and reading!
 - 📫 Contact:
-<br>  Email: `ryan_reeves@live.com`
+<br>  Email: `rreeves.dev@gmail.com`
 <br>  Phone: `(425) 418-3963`
 <br>
 
