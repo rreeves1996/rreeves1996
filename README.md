@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me :
 
 <h3> :moyai:  Looking to change careers out of masonry and into front-end development! :moyai: </h3>
-[Portfolio](https://rreeves1996.github.io/portfolio-v3/) 
+
 </div>
 <br>
 
@@ -21,7 +21,7 @@
 - 📫 Contact:
 <br>  Email: `rreeves.dev@gmail.com`
 <br>  Phone: `(425) 418-3963`
-<br>
+<br> [Portfolio](https://rreeves1996.github.io/portfolio-v3/) 
 
 ---
 
