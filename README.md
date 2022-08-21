@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me :
 
 <h3> :moyai:  Looking to change careers out of masonry and into front-end development! :moyai: </h3>
-  <h4> [Portfolio] </h4> (https://rreeves1996.github.io/portfolio-v3/) 
+[Portfolio](https://rreeves1996.github.io/portfolio-v3/) 
 </div>
 <br>
 
