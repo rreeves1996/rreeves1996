@@ -15,7 +15,7 @@
 
 
 
-- 👀 I’m interested in <strong>front-end development</strong> and UI/UX design</strong> - here is my [portfolio](https://rreeves1996.github.io/portfolio-v3/).
+- 👀 I’m interested in <strong>front-end development</strong> and <strong>UI/UX design</strong> - here is my [portfolio](https://rreeves1996.github.io/portfolio-v3/).
 - 📚 I am currently learning <strong>React.js</strong>.
 - 🌱 I’m currently attending <strong>full-stack development</strong> program at the University of Washington Bootcamp! (Graduation Sept. 17, 2022)
 - ⚡ In my free time, I enjoy teaching piano private lessons, exercising, playing video games and reading!
