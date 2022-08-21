@@ -21,7 +21,7 @@
 - 📫 Contact:
 <br>  Email: `rreeves.dev@gmail.com`
 <br>  Phone: `(425) 418-3963`
-<br> [Portfolio](https://rreeves1996.github.io/portfolio-v3/) 
+<br>  `[Portfolio](https://rreeves1996.github.io/portfolio-v3/) `
 
 ---
 
