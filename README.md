@@ -9,10 +9,11 @@
 ### 👨‍💻 About Me :
 
 <h3> :moyai:  Looking to change careers out of masonry and into front-end development! :moyai: </h3>
+  <h4> [Portfolio](https://rreeves1996.github.io/portfolio-v3/) </h4>
 </div>
 <br>
 
-[Portfolio](https://rreeves1996.github.io/portfolio-v3/) 
+
 
 - 👀 I’m interested in front-end development and UI/UX design.
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
