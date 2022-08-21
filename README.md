@@ -15,7 +15,7 @@
 
 
 
-- 👀 I’m interested in front-end development and UI/UX design - here is my [portfolio](https://rreeves1996.github.io/portfolio-v3/)
+- 👀 I’m interested in front-end development and UI/UX design - here is my [portfolio](https://rreeves1996.github.io/portfolio-v3/)!
 - 🌱 I’m currently learning full-stack development at the University of Washington Bootcamp!
 - ⚡ In my free time, I enjoy teaching piano private lessons, exercising, playing video games and reading!
 - 📫 Contact:
