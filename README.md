@@ -1,4 +1,4 @@
-<div id="header" align="center"><h1 style:"border-bottom: none">RYAN REEVES<br>
+<div id="header" align="center"><h1 style="border-bottom: none">RYAN REEVES<br>
 <img src="https://komarev.com/ghpvc/?username=rreeves1996&style=flat-square&color=blue" alt=""/></h1>
 
 </div>
