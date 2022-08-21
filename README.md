@@ -1,5 +1,5 @@
-<div id="header" align="center"><h1 border-bottom="none">RYAN REEVES<br><br>
-<img src="https://komarev.com/ghpvc/?username=rreeves1996&style=flat-square&color=blue" alt=""/></h1>
+<div id="header" align="center"><h1 border-bottom="none">RYAN REEVES<br>
+<img src="https://komarev.com/ghpvc/?username=rreeves1996&style=flat-square&color=blue" alt=""/></h1><br>
 
 </div>
 
