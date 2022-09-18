@@ -18,7 +18,7 @@
 - 👀 I’m interested in <strong>front-end development</strong> and <strong>UI/UX design</strong> - here is my [portfolio](https://rreeves1996.github.io/react-portfolio/#home)
 - 📚 I am currently learning <strong>SASS</strong> and <strong>TypeScript</strong>
 - 🌱 I graduated the <strong>Full-Stack Web Development Bootcamp</strong> at the University of Washington on September 17th, 2022
-- ⚡ In my free time, I enjoy teaching piano private lessons, exercising, playing video games and reading!
+- ⚡ In my free time, I enjoy teaching piano private lessons, exercising, playing video games and reading
 - 📫 Contact:
 <br>  Email: `rreeves.dev@gmail.com`
 <br>  Phone: `(425) 418-3963`
