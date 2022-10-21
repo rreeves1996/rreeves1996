@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 
-<h3> :moyai:  Junior frontend/full-stack developer :moyai: </h3>
+<h3> :moyai:  Junior front-end/full-stack developer :moyai: </h3>
 
 </div>
 <br>
