@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me :
 
-<h3> :moyai:  Looking to change careers out of masonry and into front-end or full-stack development! :moyai: </h3>
+<h3> :moyai:  Junior frontend/full-stack developer :moyai: </h3>
 
 </div>
 <br>
