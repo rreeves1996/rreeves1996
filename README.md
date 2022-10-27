@@ -8,14 +8,14 @@
 
 ### 👨‍💻 About Me :
 
-<h3> :moyai:  Junior front-end/full-stack developer :moyai: </h3>
+<h3> :moyai:  Junior Full-Stack Developer :moyai: </h3>
 
 </div>
 <br>
 
 
 
-- 👀 I’m interested in <strong>front-end/full-stack development</strong> - here is my [portfolio](https://rreeves1996.github.io/react-portfolio/#home)
+- 👀 I’m interested in <strong>full-stack/front-end development</strong> - here is my [portfolio](https://rreeves1996.github.io/react-portfolio/#home)
 - 📚 I am currently working on my app [TeamEZ: Team Management](https://github.com/rreeves1996/team-manager) & learning <strong>SASS</strong> and <strong>TypeScript</strong>
 - 🌱 I graduated the <strong>Full-Stack Web Development Bootcamp</strong> at the University of Washington on <strong>September 17th, 2022</strong>
 - ⚡ In my free time, I enjoy teaching piano private lessons, exercising, playing video games and reading
