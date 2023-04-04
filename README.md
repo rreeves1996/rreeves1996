@@ -15,7 +15,7 @@
 
 
 
-- 👀 I’m interested in <strong>full-stack/front-end development</strong> - here is my [portfolio](https://rreeves.dev/)
+- 👀 I’m interested in <strong>front-end development</strong> - here is my [portfolio](https://rreeves.dev/)
 - 📚 I am currently working on refactoring my older apps!
 - 🌱 I graduated the <strong>Full-Stack Web Development Bootcamp</strong> at the University of Washington on <strong>September 17th, 2022</strong>
 - ⚡ In my free time, I enjoy teaching piano private lessons, writing music, exercising and PC gaming!
