@@ -6,7 +6,7 @@
 ---
 <div align="center">
   
-<h3> :moyai:  Junior Front-End Developer :moyai: </h3>
+<h3> :moyai: Front-End Developer :moyai: </h3>
   
 ### 👨‍💻 About Me :
 
