@@ -16,9 +16,10 @@
 
 
 - 👀 I’m interested in <strong>front-end development</strong> - here is my [portfolio](https://rreeves.dev/)
+- ✍ I'm currently working on my [survey app](https://github.com/rreeves1996/survey-app)
 - 🌱 I graduated the <strong>Full-Stack Web Development Bootcamp</strong> at the University of Washington on <strong>September 17th, 2022</strong>
-- ⚡ In my free time, I enjoy teaching piano private lessons, writing music, exercising and PC gaming - I'm currently working on survey app
-
+- ⚡ In my free time, I enjoy teaching piano private lessons, writing music, exercising and PC gaming - I am a huge Dark Souls fanatic :)
+- 
 📫 Contact:
 <br>  Email: `rreeves.dev@gmail.com`
 <br>  Phone: `(425) 418-3963`
